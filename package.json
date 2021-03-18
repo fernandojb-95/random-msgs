@@ -16,5 +16,13 @@
   "bin": {
     "msg-aleatorio": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandojb-95/random-msgs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fernandojb-95/random-msgs/issues"
+  },
+  "homepage": "https://github.com/fernandojb-95/random-msgs#readme"
 }
